@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NewEditorMode",
+	"Description": "New Editor Tool",
+	"Category": "EditorModes",
+	"CreatedBy": "Alexander Sarton",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NewEditorMode",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
