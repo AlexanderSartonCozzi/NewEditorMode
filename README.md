@@ -14,7 +14,7 @@ Don't forget to add the Plugin to your .uproject file:
 
 	"Plugins": [
 		{
-			"Name": "Filter_Plugin",
+			"Name": "NewEditorMode",
 			"Enabled": true
 		},
 	]
